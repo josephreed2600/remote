@@ -14,6 +14,6 @@
     "express": "^4.17.1",
     "logger": "github:josephreed2600/logger#master",
     "node-mpv": "^1.5.0",
-    "pug": "^2.0.4"
+    "pug": "^3.0.1"
   }
 }
